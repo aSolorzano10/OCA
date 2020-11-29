@@ -1,4 +1,4 @@
-package Dates;
+package dates;
 
 import java.time.*;
 

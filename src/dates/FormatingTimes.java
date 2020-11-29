@@ -1,4 +1,4 @@
-package Dates;
+package dates;
 
 public class FormatingTimes {
 }
